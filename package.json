@@ -1,5 +1,5 @@
 {
-  "name": "phuhobean",
+  "name": "knightelite123",
   "version": "1.0.6",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
@@ -130,18 +130,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maitruong123/sum-maitruong.git"
+    "url": "https://github.com/knightelite123/knight.git"
   },
-  "homepage": "https://twitter.com/trng994",
+  "homepage": "https://twitter.com/zkskenny",
   "keywords": [
     "sum",
     "add",
     "tong",
     "cong"
   ],
-  "author": "maitruong",
+  "author": "knightelite123",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maitruong123/sum-maitruong/issues"
+    "url": "https://github.com/knightelite123/sum-knight/issues"
   }
 }
